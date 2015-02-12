@@ -1,0 +1,6 @@
+no profile evolution, SI = 0, flux = 9000
+no DM variation, DM = 16, DM offset = 0.1
+no scintillation
+no solar wind
+64 subchannels, bw = 1024MHz
+1 subintegration, 64min integration time
